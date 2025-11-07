@@ -1,2 +1,6 @@
 customtkinter
 Pillow
+aiohttp
+aiohttp-retry
+dnspython
+tqdm
