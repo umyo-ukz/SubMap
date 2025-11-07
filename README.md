@@ -64,7 +64,7 @@ python -m submap.cli --help
 
 ## 🎯 Usage
 
-### Basic Passive Scan (Recommended for beginners)
+### Basic Passive Scan
 
 ```bash
 python -m submap.cli --domain example.com --authorized
@@ -248,13 +248,6 @@ SubMap uses SQLite to store all scan data persistently. The database includes ta
 **No results from passive sources**
 - Solution: Check internet connection
 - Solution: Some domains may have limited public exposure
-
-## 🤝 Contributing
-
-Contributions are welcome! Please ensure:
-- Code follows existing style patterns
-- New features include documentation
-- Testing is performed before submitting
 
 ## ⚖️ Legal Disclaimer
 
