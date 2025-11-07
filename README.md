@@ -260,15 +260,6 @@ The authors and contributors of SubMap:
 
 **USE AT YOUR OWN RISK AND ONLY WITH PROPER AUTHORIZATION**
 
-## 📝 License
-
-This project is available under standard open-source terms. See repository for details.
-
-## 🔗 Resources
-
-- **GitHub**: https://github.com/umyo-ukz/SubMap
-- **Bug Reports**: Use GitHub Issues
-- **Feature Requests**: Submit via GitHub
 
 ## 👤 Author
 
