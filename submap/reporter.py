@@ -37,7 +37,7 @@ class Reporter:
         self.report_dir = self.domain_dir / timestamp
         self.report_dir.mkdir(exist_ok=True)
         
-    # screenshots removed: no screenshot directory created
+
 
     def export_all(self) -> Dict[str, str]:
         """
@@ -89,7 +89,7 @@ class Reporter:
             cur.execute("SELECT * FROM takeover_checks WHERE subdomain_id = ?", (sid,))
             entry["takeover"] = [dict(r) for r in cur.fetchall()]
             
-            # screenshots removed from JSON export
+    
             
             out["subdomains"].append(entry)
         
@@ -184,7 +184,7 @@ class Reporter:
             if check:
                 entry['takeover'] = dict(check)
                 
-            # screenshots removed from HTML export
+    
             
             subdomains.append(entry)
             
@@ -336,7 +336,7 @@ class Reporter:
                 `;
             }}
             
-            // screenshots removed
+   
             
             content.innerHTML = html;
             modal.style.display = 'block';

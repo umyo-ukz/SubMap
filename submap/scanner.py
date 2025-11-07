@@ -224,7 +224,6 @@ async def run_comprehensive_scan(
                     if is_vuln:
                         storage.insert_takeover_check(sid, True, service, evidence)
 
-                    # screenshots feature removed in package version
 
                     if active and 'portscan' in modules:
                         ip = ips[0]

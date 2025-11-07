@@ -1,0 +1,829 @@
+Domain,Discovery Method,IP Addresses,HTTP Status,Title,Server,Technologies,Open Ports,Takeover Risk
+*.borgmon.evenflow-test.adz.google.com,passive,142.250.105.129,400,&Uuml;berProxy: Error 400,,,,No
+*.borgmon.evenflow.adz.google.com,passive,64.233.177.129,400,&Uuml;berProxy: Error 400,,,,No
+*.client-channel.google.com,passive,74.125.134.189,400,Error 400 (Bad Request)!!1,,,,No
+*.clients6.google.com,passive,142.251.34.138,400,Error 400 (Bad Request)!!1,,,,No
+*.crowdsource.google.com,passive,192.178.50.78,400,Error 400 (Bad Request)!!1,,,,No
+*.dataplex-dev.cloud.google.com,passive,192.178.50.46,400,Error 400 (Bad Request)!!1,,,,No
+*.dataplex-staging.cloud.google.com,passive,142.250.217.206,400,Error 400 (Bad Request)!!1,,,,No
+*.dataplex.cloud.google.com,passive,172.217.165.206,400,Error 400 (Bad Request)!!1,,,,No
+*.evenflow-test.adz.google.com,passive,172.217.215.129,400,&Uuml;berProxy: Error 400,,,,No
+*.evenflow.adz.google.com,passive,64.233.185.129,400,&Uuml;berProxy: Error 400,,,,No
+*.frame.ads-devel.qa.adz.google.com,passive,74.125.138.129,400,&Uuml;berProxy: Error 400,,,,No
+*.frame.ads-nightly.qa.adz.google.com,passive,64.233.185.129,400,&Uuml;berProxy: Error 400,,,,No
+*.frame.ads-prod.qa.adz.google.com,passive,74.125.136.129,400,&Uuml;berProxy: Error 400,,,,No
+*.frame.adwords-canary.qa.adz.google.com,passive,173.194.219.129,400,&Uuml;berProxy: Error 400,,,,No
+*.frame.adwords-detours-prod.qa.adz.google.com,passive,64.233.177.129,400,&Uuml;berProxy: Error 400,,,,No
+*.frame.adwords-next-external-devel.qa.adz.google.com,passive,64.233.185.129,400,&Uuml;berProxy: Error 400,,,,No
+*.frame.adwords-next-external-prod.qa.adz.google.com,passive,64.233.185.129,400,&Uuml;berProxy: Error 400,,,,No
+*.frame.canary.qa.adz.google.com,passive,142.250.105.129,400,&Uuml;berProxy: Error 400,,,,No
+*.frame.ds-next-devel.qa.adz.google.com,passive,142.250.9.129,400,&Uuml;berProxy: Error 400,,,,No
+*.frame.ds-next-external-devel.qa.adz.google.com,passive,64.233.185.129,400,&Uuml;berProxy: Error 400,,,,No
+*.frame.ds-next-external-prod.qa.adz.google.com,passive,173.194.219.129,400,&Uuml;berProxy: Error 400,,,,No
+*.frame.ds-next-nightly.qa.adz.google.com,passive,74.125.138.129,400,&Uuml;berProxy: Error 400,,,,No
+*.frame.ds-next-prod.qa.adz.google.com,passive,74.125.136.129,400,&Uuml;berProxy: Error 400,,,,No
+*.frame.searchads-canary.qa.adz.google.com,passive,74.125.21.129,400,&Uuml;berProxy: Error 400,,,,No
+*.ics-devel-east.qa.adz.google.com,passive,74.125.136.129,400,&Uuml;berProxy: Error 400,,,,No
+*.machinelearningtools-dev.cloud.google.com,passive,142.250.64.238,400,Error 400 (Bad Request)!!1,,,,No
+*.machinelearningtools-staging.cloud.google.com,passive,142.250.64.142,400,Error 400 (Bad Request)!!1,,,,No
+*.machinelearningtools.cloud.google.com,passive,172.217.165.206,400,Error 400 (Bad Request)!!1,,,,No
+*.mtls.clients6.google.com,passive,192.178.50.74,400,Error 400 (Bad Request)!!1,,,,No
+*.mtls.pa.clients6.google.com,passive,142.251.34.138,400,Error 400 (Bad Request)!!1,,,,No
+*.pa.clients6.google.com,passive,142.251.34.138,400,Error 400 (Bad Request)!!1,,,,No
+*.qa.adz.google.com,passive,142.251.15.129,400,&Uuml;berProxy: Error 400,,,,No
+*.tensorboard-autopush.cloud.google.com,passive,142.250.217.206,400,Error 400 (Bad Request)!!1,,,,No
+*.tensorboard-dev.cloud.google.com,passive,142.251.34.142,400,Error 400 (Bad Request)!!1,,,,No
+*.tensorboard-staging.cloud.google.com,passive,192.178.50.78,400,Error 400 (Bad Request)!!1,,,,No
+*.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46, 137.184.111.46",400,400 Bad Request,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+0.client-channel.google.com,passive,173.194.215.189,404,Error 404 (Not Found)!!1,,,,No
+1.client-channel.google.com,passive,108.177.12.189,404,Error 404 (Not Found)!!1,,,,No
+10.client-channel.google.com,passive,173.194.210.189,404,Error 404 (Not Found)!!1,,,,No
+11.client-channel.google.com,passive,142.251.107.189,404,Error 404 (Not Found)!!1,,,,No
+12.client-channel.google.com,passive,74.125.139.189,404,Error 404 (Not Found)!!1,,,,No
+14.client-channel.google.com,passive,173.194.212.189,404,Error 404 (Not Found)!!1,,,,No
+16.client-channel.google.com,passive,142.250.98.189,404,Error 404 (Not Found)!!1,,,,No
+17.client-channel.google.com,passive,108.177.12.189,404,Error 404 (Not Found)!!1,,,,No
+18.client-channel.google.com,passive,173.194.216.189,404,Error 404 (Not Found)!!1,,,,No
+19.client-channel.google.com,passive,173.194.212.189,404,Error 404 (Not Found)!!1,,,,No
+2.client-channel.google.com,passive,108.177.12.189,404,Error 404 (Not Found)!!1,,,,No
+20.client-channel.google.com,passive,74.125.196.189,404,Error 404 (Not Found)!!1,,,,No
+21.client-channel.google.com,passive,74.125.196.189,404,Error 404 (Not Found)!!1,,,,No
+216-239-45-10.google.com,passive,216.239.45.10,,,,,,No
+216-239-45-32.google.com,passive,216.239.45.32,,,,,,No
+216-239-45-33.google.com,passive,216.239.45.33,,,,,,No
+216-239-45-36.google.com,passive,216.239.45.36,,,,,,No
+216-239-45-4.google.com,passive,216.239.45.4,,,,,,No
+216-239-45-6.google.com,passive,216.239.45.6,,,,,,No
+216-239-45-63.google.com,passive,216.239.45.63,,,,,,No
+216-239-45-8.google.com,passive,216.239.45.8,,,,,,No
+22.client-channel.google.com,passive,74.125.26.189,404,Error 404 (Not Found)!!1,,,,No
+23.client-channel.google.com,passive,173.194.212.189,404,Error 404 (Not Found)!!1,,,,No
+24.client-channel.google.com,passive,172.217.204.189,404,Error 404 (Not Found)!!1,,,,No
+25.client-channel.google.com,passive,172.217.203.189,404,Error 404 (Not Found)!!1,,,,No
+26.client-channel.google.com,passive,192.178.219.189,404,Error 404 (Not Found)!!1,,,,No
+27.client-channel.google.com,passive,173.194.210.189,404,Error 404 (Not Found)!!1,,,,No
+28.client-channel.google.com,passive,142.251.107.189,404,Error 404 (Not Found)!!1,,,,No
+29.client-channel.google.com,passive,172.217.204.189,404,Error 404 (Not Found)!!1,,,,No
+2f0.client-channel.google.com,passive,108.177.12.189,404,Error 404 (Not Found)!!1,,,,No
+2fasia-east1-sourcemanagerredirector-pa.clients6.google.com,passive,142.251.35.234,404,Error 404 (Not Found)!!1,,,,No
+2fasia-northeast1-sourcemanagerredirector-pa.clients6.google.com,passive,142.251.34.138,404,Error 404 (Not Found)!!1,,,,No
+2faustralia-southeast1-sourcemanagerredirector-pa.clients6.google.com,passive,172.217.165.202,404,Error 404 (Not Found)!!1,,,,No
+2feurope-west4-sourcemanagerredirector-pa.clients6.google.com,passive,142.250.217.202,404,Error 404 (Not Found)!!1,,,,No
+2fme-west1-sourcemanagerredirector-pa.clients6.google.com,passive,172.217.165.202,404,Error 404 (Not Found)!!1,,,,No
+2fnorthamerica-northeast1-sourcemanagerredirector-pa.clients6.google.com,passive,142.250.217.234,404,Error 404 (Not Found)!!1,,,,No
+2fus-central1-sourcemanagerredirector-pa.clients6.google.com,passive,192.178.50.42,404,Error 404 (Not Found)!!1,,,,No
+3.client-channel.google.com,passive,74.125.134.189,404,Error 404 (Not Found)!!1,,,,No
+360suite.google.com,passive,172.217.165.206,200,Google Analytics,,apache,,No
+4.client-channel.google.com,passive,173.194.210.189,404,Error 404 (Not Found)!!1,,,,No
+5.client-channel.google.com,passive,108.177.12.189,404,Error 404 (Not Found)!!1,,,,No
+6.client-channel.google.com,passive,74.125.134.189,404,Error 404 (Not Found)!!1,,,,No
+66-102-14-1.google.com,passive,66.102.14.1,,,,,,No
+7.client-channel.google.com,passive,142.250.98.189,404,Error 404 (Not Found)!!1,,,,No
+8.client-channel.google.com,passive,74.125.139.189,404,Error 404 (Not Found)!!1,,,,No
+9.client-channel.google.com,passive,142.251.107.189,404,Error 404 (Not Found)!!1,,,,No
+aarjav-b480g7k2ab9@checkout.google.com,passive,,,,,,,No
+about.artsandculture.google.com,passive,172.217.165.206,200,About Google Cultural Institute,,,,No
+academics-bkup.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46, 137.184.111.46",200,USC Academics Centres &#8211; Campus comfort &amp; hospitality services,,"PHP,nginx,wordpress","21, 22, 80, 110, 143, 443, 993, 995, 8443",No
+academics.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",200,USC | Programmes - Home,,nginx,"21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+accesscontextmanager.clients6.google.com,passive,172.217.15.202,404,Error 404 (Not Found)!!1,,,,No
+accountcapabilities-pa.clients6.google.com,passive,142.251.35.234,404,Error 404 (Not Found)!!1,,,,No
+accountlinking-pa.clients6.google.com,passive,192.178.50.74,404,Error 404 (Not Found)!!1,,,,No
+accounts.flexpack.google.com,passive,,,,,,,No
+accounts.freezone.google.com,passive,,,,,,,No
+accounts.google.com,passive,192.178.219.84,200,Sign in - Google Accounts,,apache,,No
+actionscenter.google.com,passive,142.250.64.142,200,Sign in - Google Accounts,,apache,,No
+addons-pa.clients6.google.com,passive,142.250.217.202,404,Error 404 (Not Found)!!1,,,,No
+admin.google.com,passive,192.178.50.46,,,,,,No
+admin@google.com,passive,,,,,,,No
+admob.google.com,passive,"74.125.139.139, 74.125.139.100, 74.125.139.102, 74.125.139.138, 74.125.139.113, 74.125.139.101",200,Google AdMob - Earn More With Mobile App Monetization,,,,No
+ads-compare.eem.corp.google.com,passive,,,,,,,No
+ads-nightly.qa.adz.google.com,passive,74.125.138.129,200,ads-nightly.qa.adz.google.com - Google Single Sign On: Sign into corp,,,,No
+ads.google.com,passive,142.251.34.142,200,Google Ads - Get Customers and Sell More with Online Advertising,,,,No
+adscreativestudio.google.com,passive,142.250.217.206,200,Ads Creative Studio sunset in March 2025 - Ads Creative Studio Help,,apache,,No
+adsdatahub.google.com,passive,192.178.50.78,200,Sign in - Google Accounts,,apache,,No
+adservice.google.com,passive,172.217.2.194,404,Error 404 (Not Found)!!1,,,,No
+adsmarketingfrontend-pa.clients6.google.com,passive,172.217.165.202,404,Error 404 (Not Found)!!1,,,,No
+adstransparency.google.com,passive,172.217.165.206,200,,,apache,,No
+advise.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+adwords.google.com,passive,"172.217.203.100, 172.217.203.102, 172.217.203.113, 172.217.203.139, 172.217.203.138, 172.217.203.101",200,Google Ads - Get Customers and Sell More with Online Advertising,,,,No
+aeorion.usc.edu.tt,passive,"200.1.110.124, 200.1.110.124",200,Login,,ASP.NET,"21, 53, 80, 443",No
+ai.google.com,passive,142.250.64.142,200,"Google AI - How we&#x27;re making AI helpful for everyone - 
+        Google AI",,,,No
+aistudio.google.com,passive,142.250.217.238,200,Google AI Studio,,,,No
+alkaliauth-pa.clients6.google.com,passive,142.250.217.234,404,,,,,No
+alkalicore-pa.clients6.google.com,passive,192.178.50.74,404,,,,,No
+alkalilearn-pa.clients6.google.com,passive,142.250.217.170,404,,,,,No
+alkalimakersuite-pa.clients6.google.com,passive,142.250.217.170,404,Error 404 (Not Found)!!1,,,,No
+alkalimetricsink-pa.clients6.google.com,passive,142.251.34.138,404,,,,,No
+allo.google.com,passive,192.178.50.78,200,,,,,No
+aloud.area120.google.com,passive,192.178.50.78,200,,,,,No
+alt1-safebrowsing.google.com,passive,"142.250.137.190, 142.250.137.136, 142.250.137.91, 142.250.137.93",200,Google,,,,No
+alt1.aspmx.google.com,passive,108.177.123.26,,,,,,No
+alt1.aspmx.l.google.com,passive,108.177.123.27,,,,,,No
+alt1.gmail-smtp-in.l.google.com,passive,108.177.123.26,,,,,,No
+alt1.gmr-smtp-in.l.google.com,passive,108.177.123.14,,,,,,No
+alt1.google.com,passive,"142.250.137.113, 142.250.137.139, 142.250.137.102, 142.250.137.138, 142.250.137.100, 142.250.137.101",404,Error 404 (Not Found)!!1,,,,No
+alt10.aspmx.google.com,passive,192.178.163.26,,,,,,No
+alt100.aspmx.google.com,passive,192.178.218.26,,,,,,No
+alt111.aspmx.google.com,passive,192.178.218.26,,,,,,No
+alt12.aspmx.google.com,passive,142.250.101.27,,,,,,No
+alt13.aspmx.google.com,passive,192.178.164.26,,,,,,No
+alt2-safebrowsing.google.com,passive,"192.178.218.136, 192.178.218.93, 192.178.218.91, 192.178.218.190",200,Google,,,,No
+alt2.aspmx.l.google.com,passive,172.253.116.26,,,,,,No
+alt2.gmail-smtp-in.l.google.com,passive,172.253.116.26,,,,,,No
+alt2.gmr-smtp-in.l.google.com,passive,172.253.116.14,,,,,,No
+alt2.google.com,passive,"192.178.218.100, 192.178.218.138, 192.178.218.102, 192.178.218.113, 192.178.218.101, 192.178.218.139",404,Error 404 (Not Found)!!1,,,,No
+alt200.aspmx.google.com,passive,192.178.218.26,,,,,,No
+alt21.aspmx.google.com,passive,64.233.177.27,,,,,,No
+alt21.google.com,passive,"142.251.13.101, 142.251.13.113, 142.251.13.102, 142.251.13.139, 142.251.13.138, 142.251.13.100",404,Error 404 (Not Found)!!1,,,,No
+alt3.aspmx.google.com,passive,173.194.76.26,,,,,,No
+alt3.aspmx.l.google.com,passive,173.194.76.26,,,,,,No
+alt3.gmail-smtp-in.l.google.com,passive,173.194.76.27,,,,,,No
+alt3.gmr-smtp-in.l.google.com,passive,173.194.76.14,,,,,,No
+alt3.google.com,passive,172.217.30.206,404,Error 404 (Not Found)!!1,,,,No
+alt300.aspmx.google.com,passive,192.178.218.27,,,,,,No
+alt31.google.com,passive,142.250.178.110,404,Error 404 (Not Found)!!1,,,,No
+alt4.aspmx.google.com,passive,142.250.102.27,,,,,,No
+alt4.aspmx.l.google.com,passive,142.250.102.27,,,,,,No
+alt4.gmail-smtp-in.l.google.com,passive,142.250.102.26,,,,,,No
+alt4.gmr-smtp-in.l.google.com,passive,142.250.102.14,,,,,,No
+alt42.aspmx.google.com,passive,192.178.218.26,,,,,,No
+alt43.google.com,passive,142.250.178.110,404,Error 404 (Not Found)!!1,,,,No
+alt5.aspmx.google.com,passive,192.178.213.27,,,,,,No
+alt7333.google.com,passive,142.250.178.110,404,Error 404 (Not Found)!!1,,,,No
+ampcid.google.com,passive,172.217.165.206,404,404 &nbsp;|&nbsp; Page Not Found &nbsp;|&nbsp; Google for Developers,,,,No
+analytics-alv.google.com,passive,"216.239.34.181, 216.239.38.181, 216.239.32.181, 216.239.36.181",404,Error 404 (Not Found)!!1,,,,No
+analytics.clients6.google.com,passive,192.178.50.42,,,,,,No
+analytics.google.com,passive,"216.239.38.181, 216.239.32.181, 216.239.34.181, 216.239.36.181",200,Redirecting...,,,,No
+analyticsinsights-pa.clients6.google.com,passive,192.178.50.42,,,,,,No
+analyticssuitefrontend-pa.clients6.google.com,passive,172.217.165.202,404,Error 404 (Not Found)!!1,,,,No
+androidpay.developers.google.com,passive,142.250.217.174,200,Sign in - Google Accounts,,apache,,No
+answers.google.com,passive,192.178.50.46,200,Google Answers,,,,No
+anthos.cloud.google.com,passive,142.250.64.174,404,Error 404 (Not Found)!!1,,,,No
+antigua.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 80, 110, 143, 443, 993, 995, 8443",No
+apikeys.clients6.google.com,passive,142.250.217.170,404,Error 404 (Not Found)!!1,,,,No
+apis.corp.google.com,passive,,,,,,,No
+appengine.clients6.google.com,passive,142.250.64.138,404,,,,,No
+appengine.google.com,passive,142.251.35.238,200,Google Cloud Platform,,apache,,No
+appmaker.google.com,passive,142.250.217.174,404,404 Page not found,,,,No
+apps-secure-data-connector.google.com,passive,,,,,,,No
+apps.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+appsbackup-pa.clients6.google.com,passive,172.217.165.202,404,Error 404 (Not Found)!!1,,,,No
+appsgenaiserver-pa.clients6.google.com,passive,142.250.217.170,404,Error 404 (Not Found)!!1,,,,No
+appsgrowthpromo-pa.clients6.google.com,passive,142.250.217.202,404,Error 404 (Not Found)!!1,,,,No
+appsitemsuggest-pa.clients6.google.com,passive,142.250.217.170,404,Error 404 (Not Found)!!1,,,,No
+appswaldo-pa.clients6.google.com,passive,172.217.165.202,404,Error 404 (Not Found)!!1,,,,No
+archive.google.com,passive,172.217.2.206,404,Error 404 (Not Found)!!1,,,,No
+area120.google.com,passive,142.251.35.238,200,Area 120 by Google,,,,No
+artifactregistry.clients6.google.com,passive,172.217.15.202,404,Error 404 (Not Found)!!1,,,,No
+artsandculture.google.com,passive,172.217.15.206,200,Google Arts &amp; Culture,,apache,,No
+asb.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+asia-east1-sourcemanagerredirector-pa.clients6.google.com,passive,142.250.64.234,404,Error 404 (Not Found)!!1,,,,No
+asia-south1-dialogflow.clients6.google.com,passive,142.250.64.234,404,Error 404 (Not Found)!!1,,,,No
+asia.google.com,passive,142.250.64.132,200,Google,,,,No
+aspmx.google.com,passive,173.194.216.27,,,,,,No
+aspmx.l.google.com,passive,74.125.196.26,,,,,,No
+assignments.google.com,passive,142.250.217.206,200,LMS Integration with Google Workspace LTI - Google for Education,,,,No
+assistant.google.com,passive,192.178.50.46,200,"Google Assistant, your own personal Google",,,,No
+attribution.google.com,passive,192.178.50.78,404,Error 404 (Not Found)!!1,,,,No
+audiencecenter.google.com,passive,142.250.64.174,200,Audience Center 360,,,,No
+audioads.google.com,passive,142.250.64.238,404,Error 404 (Not Found)!!1,,,,No
+auth.corp.google.com,passive,,,,,,,No
+barbados.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+bard.google.com,passive,172.217.165.206,200,‎Google Gemini,,apache,,No
+base.google.com,passive,192.178.50.46,404,Error 404 (Not Found)!!1,,,,No
+belonging.google.com,passive,142.250.217.238,200,Google — Building Together for Everyone,,,,No
+bigquery-sq.clients6.google.com,passive,192.178.50.74,404,Error 404 (Not Found)!!1,,,,No
+bigquery.clients6.google.com,passive,142.250.64.202,404,,,,,No
+bigquerydatatransfer.clients6.google.com,passive,142.250.217.170,404,,,,,No
+bigstore-test.corp.google.com,passive,,,,,,,No
+bigstore.corp.google.com,passive,64.233.185.129,200,bigstore.corp.google.com - Google Single Sign On: Sign into corp,,,,No
+billing.google.com,passive,142.251.35.238,404,Error 404 (Not Found)!!1,,,,No
+billingbudgets.clients6.google.com,passive,142.250.217.234,404,Error 404 (Not Found)!!1,,,,No
+blobcomments-pa.clients6.google.com,passive,192.178.50.42,404,Error 404 (Not Found)!!1,,,,No
+blogger.corp.google.com,passive,,,,,,,No
+blogspot.corp.google.com,passive,,,,,,,No
+bmcquade@google.com,passive,,,,,,,No
+books.clients6.google.com,passive,142.250.64.138,404,Error 404 (Not Found)!!1,,,,No
+books.google.com,passive,142.250.64.206,200,Google Books,,apache,,No
+borgmon.evenflow-test.adz.google.com,passive,64.233.176.129,400,&Uuml;berProxy: Error 400,,,,No
+borgmon.evenflow.adz.google.com,passive,142.250.105.129,400,&Uuml;berProxy: Error 400,,,,No
+bpui0.google.com,passive,74.125.196.92,404,Error 404 (Not Found)!!1,,,,No
+business-communications.cloud.google.com,passive,142.250.217.174,200,Sign in - Google Accounts,,apache,,No
+business.google.com,passive,192.178.50.78,200,Update your browser to manage your Business Profile - Google Business Profile Help,,apache,,No
+businessmessages.google.com,passive,172.217.2.206,404,Error 404 (Not Found)!!1,,,,No
+c.docs.google.com,passive,,,,,,,No
+c.pack.google.com,passive,,,,,,,No
+c.play.google.com,passive,,,,,,,No
+c.video.google.com,passive,,,,,,,No
+cache1.c.docs.google.com,passive,,,,,,,No
+cache1.c.play.google.com,passive,,,,,,,No
+cache1.c.video.google.com,passive,,,,,,,No
+cache2.c.docs.google.com,passive,,,,,,,No
+cache2.c.play.google.com,passive,,,,,,,No
+cache2.c.video.google.com,passive,,,,,,,No
+cache3.c.docs.google.com,passive,,,,,,,No
+cache3.c.play.google.com,passive,,,,,,,No
+cache3.c.video.google.com,passive,,,,,,,No
+cache4.c.docs.google.com,passive,,,,,,,No
+cache4.c.play.google.com,passive,,,,,,,No
+cache4.c.video.google.com,passive,,,,,,,No
+cache5.c.docs.google.com,passive,,,,,,,No
+cache5.c.play.google.com,passive,,,,,,,No
+cache5.c.video.google.com,passive,,,,,,,No
+cache6.c.docs.google.com,passive,,,,,,,No
+cache6.c.play.google.com,passive,,,,,,,No
+cache6.c.video.google.com,passive,,,,,,,No
+cache7.c.docs.google.com,passive,,,,,,,No
+cache7.c.play.google.com,passive,,,,,,,No
+cache7.c.video.google.com,passive,,,,,,,No
+cache8.c.docs.google.com,passive,,,,,,,No
+cache8.c.play.google.com,passive,,,,,,,No
+cache8.c.video.google.com,passive,,,,,,,No
+cag.ext.google.com,passive,,,,,,,No
+calendar-pa.clients6.google.com,passive,142.250.64.170,404,Error 404 (Not Found)!!1,,,,No
+calendar.google.com,passive,172.217.165.206,200,Google Calendar - Sign in to Access &amp; Edit Your Schedule,,apache,,No
+calendarsuggest.clients6.google.com,passive,172.217.2.202,404,Error 404 (Not Found)!!1,,,,No
+calendarsync-pa.clients6.google.com,passive,142.250.64.234,404,Error 404 (Not Found)!!1,,,,No
+calljoy.area120.google.com,passive,142.251.34.142,404,Error 404 (Not Found)!!1,,,,No
+campaignmanager.google.com,passive,142.250.217.238,200,Campaign Manager 360 - Unsupported Browser,,,,No
+camsportal.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+captive.adservice.google.com,passive,216.239.32.220,404,Error 404 (Not Found)!!1,,,,No
+careers.google.com,passive,142.250.217.206,200,Google Careers,,apache,,No
+carunewsite.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 80, 110, 143, 443, 993, 995, 8443",No
+casespartner-pa.clients6.google.com,passive,172.217.165.202,404,Error 404 (Not Found)!!1,,,,No
+cello.client-channel.google.com,passive,173.194.216.189,404,Error 404 (Not Found)!!1,,,,No
+cert-test.sandbox.google.com,passive,173.194.215.90,200,Test Success,,,,No
+chat-pa.clients6.google.com,passive,142.250.217.234,404,Error 404 (Not Found)!!1,,,,No
+chat.clients6.google.com,passive,142.250.217.202,404,,,,,No
+chat.google.com,passive,172.217.2.206,200,Sign in - Google Accounts,,apache,,No
+checkout.google.com,passive,,,,,,,No
+checks.area120.google.com,passive,142.250.217.174,200,Simplify compliance with Google | Checks,,,,No
+checks.google.com,passive,172.217.165.206,200,Simplify compliance with Google | Checks,,,,No
+chrome.google.com,passive,142.250.217.174,200,Google Chrome - The Fast & Secure Web Browser Built to be Yours,,,,No
+chromeos.google.com,passive,142.250.64.206,404,Error 404 (Not Found)!!1,,,,No
+chromewebstore.google.com,passive,142.250.217.206,200,Chrome Web Store,,apache,,No
+church.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+citychurch.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+cla.developers.google.com,passive,142.250.217.174,200,About - Google CLA,,,,No
+classroom.google.com,passive,192.178.50.78,200,Sign in - Google Accounts,,apache,,No
+client-channel.google.com,passive,192.178.50.78,404,Error 404 (Not Found)!!1,,,,No
+client-side-encryption.google.com,passive,172.217.165.206,404,Error 404 (Not Found)!!1,,,,No
+clientauthconfig.clients6.google.com,passive,172.217.2.202,404,Error 404 (Not Found)!!1,,,,No
+clients.google.com,passive,,,,,,,No
+cloud.google.com,passive,142.250.217.174,200,Cloud Computing Services | Google Cloud,,apache,,No
+cloudaicompanion.clients6.google.com,passive,142.250.217.234,404,Error 404 (Not Found)!!1,,,,No
+cloudbilling.clients6.google.com,passive,142.250.217.202,404,Error 404 (Not Found)!!1,,,,No
+cloudbuild.clients6.google.com,passive,142.251.34.138,404,Error 404 (Not Found)!!1,,,,No
+cloudconsole-pa.clients6.google.com,passive,172.217.15.202,404,Error 404 (Not Found)!!1,,,,No
+clouderrorreporting.clients6.google.com,passive,142.250.217.202,404,Error 404 (Not Found)!!1,,,,No
+cloudidentity.clients6.google.com,passive,142.250.217.202,404,Error 404 (Not Found)!!1,,,,No
+cloudnotifications.clients6.google.com,passive,142.250.217.202,,,,,,No
+cloudresourcemanager.clients6.google.com,passive,142.250.217.202,404,Error 404 (Not Found)!!1,,,,No
+cloudsearch.clients6.google.com,passive,142.250.217.202,404,Error 404 (Not Found)!!1,,,,No
+cloudsupport-pa.clients6.google.com,passive,142.251.34.138,404,Error 404 (Not Found)!!1,,,,No
+cloudsupport.clients6.google.com,passive,192.178.50.74,404,Error 404 (Not Found)!!1,,,,No
+cloudusersettings-pa.clients6.google.com,passive,172.217.15.202,404,Error 404 (Not Found)!!1,,,,No
+cod.ext.google.com,passive,216.239.44.73,,,,,,No
+code.google.com,passive,192.178.50.46,200,Google Code,,,,No
+codeassist.google.com,passive,192.178.50.78,200,Sign in - Google Accounts,,apache,,No
+codelabs.developers.google.com,passive,192.178.50.78,200,Google Codelabs,,,,No
+codetheroad.developers.google.com,passive,142.251.35.238,200,Google,,,,No
+colab-embedded.cloud.google.com,passive,142.250.217.238,404,Error 404 (Not Found)!!1,,,,No
+colab.google.com,passive,142.250.64.206,200,Google Colab,,apache,,No
+composer.clients6.google.com,passive,172.217.165.202,404,Error 404 (Not Found)!!1,,,,No
+compute.clients6.google.com,passive,142.250.64.202,404,Error 404 (Not Found)!!1,,,,No
+connect.usc.edu.tt,passive,,,,,,,No
+connect.usc.edu.tt.espace.usc.edu.tt,passive,"104.244.122.231, 104.244.122.231",,,,,"21, 80, 110, 143, 443, 993, 995, 3306",No
+consent.google.com,passive,142.250.217.174,404,Error 404 (Not Found)!!1,,,,No
+console.au.cloud.google.com,passive,192.178.50.46,404,Error 404 (Not Found)!!1,,,,No
+console.ca.cloud.google.com,passive,172.217.15.206,404,Error 404 (Not Found)!!1,,,,No
+console.ch.cloud.google.com,passive,142.250.217.206,404,Error 404 (Not Found)!!1,,,,No
+console.developer.google.com,passive,216.239.32.27,404,404 Page not found,,,,No
+console.developers.google.com,passive,216.239.32.27,200,Google Cloud Platform,,apache,,No
+console.eu.cloud.google.com,passive,172.217.165.206,200,Google Cloud Platform,,apache,,No
+console.il.cloud.google.com,passive,142.250.64.238,404,Error 404 (Not Found)!!1,,,,No
+console.in.cloud.google.com,passive,192.178.50.46,200,Google Cloud Platform,,apache,,No
+console.it.cloud.google.com,passive,192.178.50.46,404,Error 404 (Not Found)!!1,,,,No
+console.jp.cloud.google.com,passive,142.250.217.206,404,Error 404 (Not Found)!!1,,,,No
+console.sa.cloud.google.com,passive,142.250.64.142,200,Google Cloud Platform,,apache,,No
+console.uk.cloud.google.com,passive,142.250.217.206,404,Error 404 (Not Found)!!1,,,,No
+console.us.cloud.google.com,passive,142.250.64.238,200,Google Cloud Platform,,apache,,No
+containeranalysis.clients6.google.com,passive,142.250.217.170,404,Error 404 (Not Found)!!1,,,,No
+conversational-agents.cloud.google.com,passive,172.217.2.206,200,Conversational Agent Console,,apache,,No
+corp-backups.corp.google.com,passive,,,,,,,No
+corp.google.com,passive,142.250.9.129,400,&Uuml;berProxy: Error 400,,,,No
+coursekit.google.com,passive,142.250.64.238,200,LMS Integration with Google Workspace LTI - Google for Education,,,,No
+cpanel.connect.usc.edu.tt,passive,,,,,,,No
+cpanel.de.usc.edu.tt,passive,137.184.111.46,404,404 Not Found,,"apache,nginx","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+cpanel.elearn.usc.edu.tt,passive,"104.244.122.231, 104.244.122.231",200,cPanel Login,,apache,"21, 53, 80, 110, 143, 443, 993, 995, 3306",No
+cpanel.espace.usc.edu.tt,passive,"104.244.122.231, 104.244.122.231",200,cPanel Login,,apache,"21, 53, 80, 110, 143, 443, 993, 995, 3306",No
+cpanel.online.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+cpcalendars.connect.usc.edu.tt,passive,,,,,,,No
+cpcalendars.de.usc.edu.tt,passive,137.184.111.46,404,404 Not Found,,"apache,nginx","21, 22, 80, 110, 143, 443, 993, 995, 8443",No
+cpcalendars.elearn.usc.edu.tt,passive,"104.244.122.231, 104.244.122.231",401,,,,"21, 53, 80, 110, 143, 443, 993, 995, 3306",No
+cpcalendars.espace.usc.edu.tt,passive,"104.244.122.231, 104.244.122.231",401,,,,"21, 53, 80, 110, 143, 443, 993, 995, 3306",No
+cpcalendars.online.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+cpcontacts.connect.usc.edu.tt,passive,,,,,,,No
+cpcontacts.de.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443, 21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+cpcontacts.elearn.usc.edu.tt,passive,"104.244.122.231, 104.244.122.231, 104.244.122.231",401,,,,"21, 53, 80, 110, 143, 443, 993, 995, 3306, 21, 80, 110, 143, 443, 993, 995, 3306",No
+cpcontacts.espace.usc.edu.tt,passive,"104.244.122.231, 104.244.122.231, 104.244.122.231",401,,,,"21, 53, 80, 110, 143, 443, 993, 995, 3306, 21, 53, 80, 110, 143, 443, 993, 995, 3306",No
+cpcontacts.online.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443, 21, 22, 80, 110, 143, 443, 993, 995, 8443",No
+crashlytics-pa.clients6.google.com,passive,172.217.165.202,404,Error 404 (Not Found)!!1,,,,No
+crowdsource.google.com,passive,142.250.64.142,200,Sign in - Google Accounts,,apache,,No
+cse.google.com,passive,142.251.34.142,200,Programmable Search Engine by Google,,,,No
+csffp.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46, 137.184.111.46",200,The Caribbean Self-Forgiveness and Flourishing Project  &#8211; Promoting self-forgiveness.,,"PHP,nginx,wordpress","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+currents.google.com,passive,142.250.217.174,200,Sign in - Google Accounts,,apache,,No
+da.ext.corp.google.com,passive,,,,,,,No
+da.ext.google.com,passive,,,,,,,No
+dailygames.discover.google.com,passive,142.250.64.206,200,Google,,,,No
+dasher-qa.corp.google.com,passive,64.233.176.129,404,&Uuml;berProxy: Error 404,,,,No
+dasher.corp.google.com,passive,142.250.9.129,200,dasher.corp.google.com - Google Single Sign On: Sign into corp,,,,No
+dataflow.clients6.google.com,passive,142.251.34.138,404,Error 404 (Not Found)!!1,,,,No
+datally.google.com,passive,142.250.64.238,200,Datally Help,,apache,,No
+dataplex-dev.cloud.google.com,passive,142.250.217.238,200,Sign in - Google Accounts,,apache,,No
+dataplex-staging.cloud.google.com,passive,192.178.50.46,404,Error 404 (Not Found)!!1,,,,No
+dataplex.cloud.google.com,passive,142.250.217.238,404,Error 404 (Not Found)!!1,,,,No
+dataproc.clients6.google.com,passive,172.217.15.202,404,Error 404 (Not Found)!!1,,,,No
+datastore.clients6.google.com,passive,142.250.217.202,404,Error 404 (Not Found)!!1,,,,No
+datastudio.google.com,passive,192.178.50.78,200,Looker Studio Overview,,,,No
+davidsiguel.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443, 21, 22, 80, 110, 143, 443, 993, 995, 8443",No
+de.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46, 137.184.111.46",200,Department of Online Education &#8211; Advancing USC distance education,,"PHP,nginx,wordpress",,No
+deepmind.google.com,passive,142.250.217.238,200,Google DeepMind,,,,No
+deliverynavigator.cloud.google.com,passive,192.178.50.78,200,Sign in - Google Accounts,,apache,,No
+demetrius-codespot.corp.google.com,passive,,,,,,,No
+demetrius-googlecode.corp.google.com,passive,,,,,,,No
+demetrius.corp.google.com,passive,,,,,,,No
+design.google.com,passive,142.250.64.142,200,Google Design - Discover the people and stories behind the products,,,,No
+dev.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443, 21, 22, 80, 110, 143, 443, 993, 995, 8443",No
+dev2025.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 80, 110, 143, 443, 993, 995, 8443, 21, 22, 80, 110, 143, 443, 993, 995, 8443",No
+devconsole-testers.sandbox.google.com,passive,172.217.204.81,404,Error 404 (Not Found)!!1,,,,No
+developer.google.com,passive,142.250.217.174,200,Google for Developers - from AI and Cloud to Mobile and Web,,,,No
+developerprofiles-pa.clients6.google.com,passive,192.178.50.74,404,Error 404 (Not Found)!!1,,,,No
+developers.google.com,passive,142.250.64.174,200,Google for Developers - from AI and Cloud to Mobile and Web,,,,No
+developerscontentsearch-pa.clients6.google.com,passive,192.178.50.74,404,Error 404 (Not Found)!!1,,,,No
+developerscontentserving-pa.clients6.google.com,passive,142.250.217.202,404,Error 404 (Not Found)!!1,,,,No
+devicemanagement.google.com,passive,142.251.35.238,404,Error 404 (Not Found)!!1,,,,No
+dfa7.corp.google.com,passive,,,,,,,No
+dg.video.google.com,passive,74.125.134.176,404,Error 404 (Not Found)!!1,,,,No
+dialogflow.clients6.google.com,passive,142.250.217.170,404,Error 404 (Not Found)!!1,,,,No
+directory.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443, 21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+discover.google.com,passive,142.250.217.206,200,Google,,,,No
+dl.google.com,passive,192.178.50.46,200,Google Chrome - The Fast & Secure Web Browser Built to be Yours,,,,No
+dns.google.com,passive,"8.8.4.4, 8.8.8.8",200,Google Public DNS,,,,No
+docs-dev.corp.google.com,passive,64.233.185.129,404,&Uuml;berProxy: Error 404,,,,No
+docs-nightly.corp.google.com,passive,,,,,,,No
+docs-platinum.corp.google.com,passive,,,,,,,No
+docs-qa.corp.google.com,passive,64.233.185.129,200,docs-qa.corp.google.com - Google Single Sign On: Sign into corp,,,,No
+docs.cloud.google.com,passive,192.178.50.46,200,Google Cloud Documentation,,,,No
+docs.google.com,passive,142.250.64.238,200,Sign in - Google Accounts,,apache,,No
+docs.sandbox.google.com,passive,74.125.134.81,200,Sign in - Google Accounts,,apache,,No
+documentwarehouse.cloud.google.com,passive,192.178.50.78,200,Sign in - Google Accounts,,apache,,No
+drive-test.corp.google.com,passive,,,,,,,No
+drive.google.com,passive,192.178.50.78,200,Google Drive: Sign-in,,apache,,No
+drive.sandbox.google.com,passive,173.194.212.81,200,Google Drive: Sign-in,,apache,,No
+driveactivity.clients6.google.com,passive,192.178.50.74,404,Error 404 (Not Found)!!1,,,,No
+drivefrontend-pa.clients6.google.com,passive,192.178.50.74,404,Error 404 (Not Found)!!1,,,,No
+drivelabels.clients6.google.com,passive,142.251.35.234,404,Error 404 (Not Found)!!1,,,,No
+drivemetadata.clients6.google.com,passive,142.250.217.170,404,Error 404 (Not Found)!!1,,,,No
+drivesharefrontend-pa.clients6.google.com,passive,142.251.34.138,404,Error 404 (Not Found)!!1,,,,No
+dthree.corp.google.com,passive,,,,,,,No
+dynamicmail-pa.clients6.google.com,passive,142.250.217.170,404,Error 404 (Not Found)!!1,,,,No
+dynamiteintegration-pa.clients6.google.com,passive,192.178.50.74,404,,,,,No
+earth-pa.clients6.google.com,passive,192.178.50.42,404,Error 404 (Not Found)!!1,,,,No
+ecc-test.sandbox.google.com,passive,173.194.216.81,200,ECC-capable Certificate Success,,,,No
+eggroll.ext.google.com,passive,216.239.44.90,,,,,,No
+elearn.usc.edu.tt,passive,"104.244.122.231, 104.244.122.231, 104.244.122.231",200,USC,,apache,"21, 53, 80, 110, 143, 443, 993, 995, 3306, 21, 53, 80, 110, 143, 443, 993, 995, 3306",No
+embeddedassistant-webchannel.clients6.google.com,passive,142.250.217.202,404,Error 404 (Not Found)!!1,,,,No
+espace.usc.edu.tt,passive,"104.244.122.231, 104.244.122.231, 104.244.122.231",200,USC eSpace,,apache,"21, 53, 80, 110, 143, 443, 993, 995, 3306, 21, 53, 80, 110, 143, 443, 993, 995, 3306",No
+espresso-pa.clients6.google.com,passive,172.217.15.202,404,Error 404 (Not Found)!!1,,,,No
+eu-discoveryengine.clients6.google.com,passive,142.250.217.170,404,Error 404 (Not Found)!!1,,,,No
+europe-west1-dialogflow.clients6.google.com,passive,192.178.50.42,404,Error 404 (Not Found)!!1,,,,No
+europe-west4-sourcemanagerredirector-pa.clients6.google.com,passive,192.178.50.74,404,Error 404 (Not Found)!!1,,,,No
+europe.apigee.google.com,passive,142.251.34.142,200,Sign in - Google Accounts,,apache,,No
+exams.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+ext.google.com,passive,,,,,,,No
+feedback-pa.clients6.google.com,passive,142.251.35.234,404,Error 404 (Not Found)!!1,,,,No
+filmfestival.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+firealerts-pa.clients6.google.com,passive,172.217.165.202,404,,,,,No
+firebase.clients6.google.com,passive,172.217.165.202,404,,,,,No
+firebaseabt-pa.clients6.google.com,passive,142.250.217.202,404,Error 404 (Not Found)!!1,,,,No
+firebaseappcheck-pa.clients6.google.com,passive,142.250.217.170,404,Error 404 (Not Found)!!1,,,,No
+firebaseappcheck.clients6.google.com,passive,172.217.165.202,404,Error 404 (Not Found)!!1,,,,No
+firebaseappdistribution-pa.clients6.google.com,passive,142.250.64.170,404,Error 404 (Not Found)!!1,,,,No
+firebaseappdistribution.clients6.google.com,passive,142.251.34.138,404,Error 404 (Not Found)!!1,,,,No
+firebaseapptesters.clients6.google.com,passive,142.250.217.234,404,Error 404 (Not Found)!!1,,,,No
+firebasedatabase.clients6.google.com,passive,142.250.217.234,404,Error 404 (Not Found)!!1,,,,No
+firebasedurablelinks-pa.clients6.google.com,passive,192.178.50.74,404,Error 404 (Not Found)!!1,,,,No
+firebaseextensions-pa.clients6.google.com,passive,142.250.64.170,404,Error 404 (Not Found)!!1,,,,No
+firebasehosting.clients6.google.com,passive,142.251.35.234,404,Error 404 (Not Found)!!1,,,,No
+firebasemessagingcampaigns.clients6.google.com,passive,172.217.2.202,404,Error 404 (Not Found)!!1,,,,No
+firebasereleasemon-pa.clients6.google.com,passive,192.178.50.42,404,Error 404 (Not Found)!!1,,,,No
+firebaseremoteconfig-pa.clients6.google.com,passive,142.251.35.234,404,Error 404 (Not Found)!!1,,,,No
+firebaserules.clients6.google.com,passive,142.250.217.202,404,Error 404 (Not Found)!!1,,,,No
+firebasesagepredictions-pa.clients6.google.com,passive,192.178.50.74,404,Error 404 (Not Found)!!1,,,,No
+firebasestorage.clients6.google.com,passive,142.251.35.234,404,Error 404 (Not Found)!!1,,,,No
+firebasetargeting-pa.clients6.google.com,passive,172.217.2.202,404,Error 404 (Not Found)!!1,,,,No
+fireconsole-pa.clients6.google.com,passive,192.178.50.74,404,Error 404 (Not Found)!!1,,,,No
+firestore.clients6.google.com,passive,142.250.217.234,404,Error 404 (Not Found)!!1,,,,No
+flexpack.google.com,passive,,,,,,,No
+focus.corp.google.com,passive,,,,,,,No
+fra-da.ext.google.com,passive,,,,,,,No
+frame.ads-devel.qa.adz.google.com,passive,172.217.215.129,200,frame.ads-devel.qa.adz.google.com - Google Single Sign On: Sign into corp,,,,No
+frame.ads-nightly.qa.adz.google.com,passive,172.217.215.129,200,frame.ads-nightly.qa.adz.google.com - Google Single Sign On: Sign into corp,,,,No
+frame.ads-prod.qa.adz.google.com,passive,172.217.215.129,200,frame.ads-prod.qa.adz.google.com - Google Single Sign On: Sign into corp,,,,No
+frame.adwords-canary.qa.adz.google.com,passive,172.217.215.129,200,frame.adwords-canary.qa.adz.google.com - Google Single Sign On: Sign into corp,,,,No
+frame.adwords-detours-prod.qa.adz.google.com,passive,142.250.9.129,200,frame.adwords-detours-prod.qa.adz.google.com - Google Single Sign On: Sign into corp,,,,No
+frame.adwords-next-external-devel.qa.adz.google.com,passive,74.125.136.129,200,frame.adwords-next-external-devel.qa.adz.google.com - Google Single Sign On: Sign into corp,,,,No
+frame.adwords-next-external-prod.qa.adz.google.com,passive,142.250.9.129,200,frame.adwords-next-external-prod.qa.adz.google.com - Google Single Sign On: Sign into corp,,,,No
+frame.canary.qa.adz.google.com,passive,173.194.219.129,200,frame.canary.qa.adz.google.com - Google Single Sign On: Sign into corp,,,,No
+frame.ds-next-devel.qa.adz.google.com,passive,74.125.21.129,200,frame.ds-next-devel.qa.adz.google.com - Google Single Sign On: Sign into corp,,,,No
+frame.ds-next-external-devel.qa.adz.google.com,passive,74.125.21.129,200,frame.ds-next-external-devel.qa.adz.google.com - Google Single Sign On: Sign into corp,,,,No
+frame.ds-next-external-prod.qa.adz.google.com,passive,172.253.124.129,200,frame.ds-next-external-prod.qa.adz.google.com - Google Single Sign On: Sign into corp,,,,No
+frame.ds-next-nightly.qa.adz.google.com,passive,64.233.176.129,200,frame.ds-next-nightly.qa.adz.google.com - Google Single Sign On: Sign into corp,,,,No
+frame.ds-next-prod.qa.adz.google.com,passive,74.125.136.129,200,frame.ds-next-prod.qa.adz.google.com - Google Single Sign On: Sign into corp,,,,No
+frame.searchads-canary.qa.adz.google.com,passive,64.233.185.129,200,frame.searchads-canary.qa.adz.google.com - Google Single Sign On: Sign into corp,,,,No
+freezone.accounts.google.com,passive,,,,,,,No
+freezone.google.com,passive,,,,,,,No
+freezone.m.google.com,passive,,,,,,,No
+freezone.mail.google.com,passive,,,,,,,No
+friendconnect.google.com,passive,142.250.64.142,404,Error 404 (Not Found)!!1,,,,No
+gaiastaging.flexpack.google.com,passive,,,,,,,No
+gaiastaging.freezone.google.com,passive,,,,,,,No
+games.corp.google.com,passive,,,,,,,No
+gcmcontextualcampaign-pa.clients6.google.com,passive,142.250.217.202,404,Error 404 (Not Found)!!1,,,,No
+geminidataanalytics.cloud.google.com,passive,142.250.64.238,200,Sign in - Google Accounts,,apache,,No
+git.corp.google.com,passive,172.253.124.129,200,,,,,No
+glass-eur.ext.google.com,passive,,,,,,,No
+glass-mtv.ext.google.com,passive,,,,,,,No
+glass-twd.ext.google.com,passive,,,,,,,No
+glass.ext.google.com,passive,,,,,,,No
+glpi.usc.edu.tt,passive,,,,,,,No
+gmail-smtp-in.l.google.com,passive,173.194.212.27,,,,,,No
+gmail.google.com,passive,192.178.50.46,200,Gmail,,apache,,No
+gmr-smtp-in.l.google.com,passive,74.125.196.14,,,,,,No
+go.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+google-voice.client-channel.google.com,passive,172.217.203.189,404,Error 404 (Not Found)!!1,,,,No
+google.com,passive,142.250.64.206,200,Google,,,,No
+googlehomefoyer-pa.clients6.google.com,passive,142.250.217.234,404,Error 404 (Not Found)!!1,,,,No
+googlesource.corp.google.com,passive,,,,,,,No
+grad2022.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 80, 110, 143, 443, 993, 995, 8443",No
+grad2023.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+grad2024.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+grad2025.usc.edu.tt,passive,"34.136.28.237, 34.136.28.237",,,,,"53, 80, 443",No
+grimoireoss-pa.clients6.google.com,passive,192.178.50.74,404,Error 404 (Not Found)!!1,,,,No
+growth-pa.clients6.google.com,passive,172.217.2.202,404,Error 404 (Not Found)!!1,,,,No
+gstt.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 80, 110, 143, 443, 993, 995, 8443",No
+guesthouse.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+guyana.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+hangouts.clients6.google.com,passive,192.178.50.74,404,Error 404 (Not Found)!!1,,,,No
+hangoutssearch-pa.clients6.google.com,passive,142.251.34.138,404,Error 404 (Not Found)!!1,,,,No
+hangoutsusermedia-pa.clients6.google.com,passive,142.250.217.234,404,Error 404 (Not Found)!!1,,,,No
+honeycomb-pa.clients6.google.com,passive,192.178.50.42,404,Error 404 (Not Found)!!1,,,,No
+honeycomb.client-channel.google.com,passive,74.125.139.189,404,Error 404 (Not Found)!!1,,,,No
+hospitality.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",200,USC Hospitality Services &#8211; Campus comfort &amp; hospitality services,,"PHP,nginx,wordpress","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+host: elearn.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",,,,,"21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+host: espace.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",,,,,"21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+host: ogads-pa.clients6.google.com,passive,172.217.165.202,,,,,,No
+host: programmes.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",,,,,"21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+host: waa-pa.clients6.google.com,passive,142.250.217.170,,,,,,No
+hosted-id.google.com,passive,,,,,,,No
+hot-da.ext.google.com,passive,,,,,,,No
+hr.client-channel.google.com,passive,173.194.216.189,404,Error 404 (Not Found)!!1,,,,No
+hyd-da.ext.google.com,passive,,,,,,,No
+iam.clients6.google.com,passive,172.217.165.202,404,Error 404 (Not Found)!!1,,,,No
+ice.ext.google.com,passive,,,,,,,No
+ics-devel-east.qa.adz.google.com,passive,108.177.122.129,200,ics-devel-east.qa.adz.google.com - Google Single Sign On: Sign into corp,,,,No
+ics.prod.google.com,passive,,,,,,,No
+ide.cloud.google.com,passive,142.250.217.174,200,Sign in - Google Accounts,,apache,,No
+identitytoolkit.clients6.google.com,passive,142.251.34.138,404,Error 404 (Not Found)!!1,,,,No
+inclusivehope.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+instantmessaging-pa-heron.clients6.google.com,passive,172.217.165.202,404,Error 404 (Not Found)!!1,,,,No
+instantmessaging-pa-us.clients6.google.com,passive,142.250.217.234,404,Error 404 (Not Found)!!1,,,,No
+instantmessaging-pa.clients6.google.com,passive,172.217.15.202,404,Error 404 (Not Found)!!1,,,,No
+jibemessagestore.clients6.google.com,passive,172.217.165.202,404,Error 404 (Not Found)!!1,,,,No
+jmt0.google.com,passive,192.178.50.46,404,Error 404 (Not Found)!!1,,,,No
+jotspot-qa08.corp.google.com,passive,,,,,,,No
+keep-pa.clients6.google.com,passive,142.251.34.138,404,Error 404 (Not Found)!!1,,,,No
+kidsmanagement-pa.clients6.google.com,passive,142.250.217.234,404,Error 404 (Not Found)!!1,,,,No
+languagecenter.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+languagecentre.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",200,International Centre for Corporate Training and Languages &#8211; Language Centre for International Students,,"PHP,nginx,wordpress","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+libadmin@usc.edu.tt,passive,,,,,,,No
+library.usc.edu.tt,passive,"159.89.177.234, 159.89.177.234",200,Forde Library Main | Stacks Title,,"nginx,drupal","22, 53, 80, 443",No
+link.usc.edu.tt,passive,"52.72.49.79, 52.72.49.79",200,Rebrandly,,,"53, 80, 443",No
+locker-pa.clients6.google.com,passive,142.250.217.170,404,Error 404 (Not Found)!!1,,,,No
+logging.clients6.google.com,passive,142.250.217.234,404,Error 404 (Not Found)!!1,,,,No
+login.corp.google.com,passive,74.125.138.129,200,Google Single Sign On: Sign into corp,,,,No
+lookerstudio.africa-south1.cloud.google.com,passive,192.178.50.46,404,Error 404 (Not Found)!!1,,,,No
+lookerstudio.asia-east1.cloud.google.com,passive,192.178.50.78,200,Looker Studio Overview,,,,No
+lookerstudio.asia-east2.cloud.google.com,passive,172.217.15.206,404,Error 404 (Not Found)!!1,,,,No
+lookerstudio.asia-northeast1.cloud.google.com,passive,172.217.165.206,404,Error 404 (Not Found)!!1,,,,No
+lookerstudio.asia-northeast2.cloud.google.com,passive,142.251.34.142,404,Error 404 (Not Found)!!1,,,,No
+lookerstudio.asia-northeast3.cloud.google.com,passive,192.178.50.46,404,Error 404 (Not Found)!!1,,,,No
+lookerstudio.asia-south1.cloud.google.com,passive,142.250.217.238,404,Error 404 (Not Found)!!1,,,,No
+lookerstudio.asia-south2.cloud.google.com,passive,172.217.165.206,404,Error 404 (Not Found)!!1,,,,No
+lookerstudio.asia-southeast1.cloud.google.com,passive,142.250.217.206,200,Looker Studio Overview,,,,No
+lookerstudio.asia-southeast2.cloud.google.com,passive,172.217.165.206,404,Error 404 (Not Found)!!1,,,,No
+lookerstudio.asia-southeast3.cloud.google.com,passive,142.250.217.206,404,Error 404 (Not Found)!!1,,,,No
+lookerstudio.australia-southeast1.cloud.google.com,passive,172.217.2.206,404,Error 404 (Not Found)!!1,,,,No
+lookerstudio.australia-southeast2.cloud.google.com,passive,142.250.64.206,404,Error 404 (Not Found)!!1,,,,No
+lookerstudio.eu.cloud.google.com,passive,172.217.165.206,404,Error 404 (Not Found)!!1,,,,No
+lookerstudio.europe-central2.cloud.google.com,passive,192.178.50.46,404,Error 404 (Not Found)!!1,,,,No
+lookerstudio.europe-north1.cloud.google.com,passive,142.250.64.142,200,Looker Studio Overview,,,,No
+lookerstudio.europe-north2.cloud.google.com,passive,192.178.50.78,404,Error 404 (Not Found)!!1,,,,No
+lookerstudio.europe-southwest1.cloud.google.com,passive,142.250.64.142,404,Error 404 (Not Found)!!1,,,,No
+lookerstudio.europe-west1.cloud.google.com,passive,172.217.15.206,200,Looker Studio Overview,,,,No
+lookerstudio.europe-west10.cloud.google.com,passive,192.178.50.78,404,Error 404 (Not Found)!!1,,,,No
+lookerstudio.europe-west12.cloud.google.com,passive,142.250.217.174,404,Error 404 (Not Found)!!1,,,,No
+lookerstudio.europe-west2.cloud.google.com,passive,172.217.2.206,404,Error 404 (Not Found)!!1,,,,No
+lookerstudio.europe-west3.cloud.google.com,passive,142.250.64.238,404,Error 404 (Not Found)!!1,,,,No
+lookerstudio.europe-west4.cloud.google.com,passive,192.178.50.46,200,Looker Studio Overview,,,,No
+lookerstudio.europe-west6.cloud.google.com,passive,172.217.2.206,404,Error 404 (Not Found)!!1,,,,No
+lookerstudio.europe-west8.cloud.google.com,passive,142.250.217.206,404,Error 404 (Not Found)!!1,,,,No
+lookerstudio.europe-west9.cloud.google.com,passive,192.178.50.78,404,Error 404 (Not Found)!!1,,,,No
+lookerstudio.me-central1.cloud.google.com,passive,172.217.2.206,404,Error 404 (Not Found)!!1,,,,No
+lookerstudio.me-central2.cloud.google.com,passive,172.217.165.206,404,Error 404 (Not Found)!!1,,,,No
+lookerstudio.me-west1.cloud.google.com,passive,192.178.50.46,404,Error 404 (Not Found)!!1,,,,No
+lookerstudio.northamerica-northeast1.cloud.google.com,passive,142.250.64.238,404,Error 404 (Not Found)!!1,,,,No
+lookerstudio.northamerica-northeast2.cloud.google.com,passive,142.251.35.238,404,Error 404 (Not Found)!!1,,,,No
+lookerstudio.northamerica-south1.cloud.google.com,passive,142.250.217.206,404,Error 404 (Not Found)!!1,,,,No
+lookerstudio.southamerica-east1.cloud.google.com,passive,192.178.50.46,404,Error 404 (Not Found)!!1,,,,No
+lookerstudio.southamerica-west1.cloud.google.com,passive,192.178.50.78,200,Looker Studio Overview,,,,No
+lookerstudio.us-central1.cloud.google.com,passive,192.178.50.78,200,Looker Studio Overview,,,,No
+lookerstudio.us-east1.cloud.google.com,passive,142.250.64.174,200,Looker Studio Overview,,,,No
+lookerstudio.us-east4.cloud.google.com,passive,142.251.34.142,200,Looker Studio Overview,,,,No
+lookerstudio.us-east5.cloud.google.com,passive,192.178.50.46,200,Looker Studio Overview,,,,No
+lookerstudio.us-south1.cloud.google.com,passive,142.250.217.174,200,Looker Studio Overview,,,,No
+lookerstudio.us-west1.cloud.google.com,passive,142.250.64.174,200,Looker Studio Overview,,,,No
+lookerstudio.us-west2.cloud.google.com,passive,192.178.50.46,404,Error 404 (Not Found)!!1,,,,No
+lookerstudio.us-west3.cloud.google.com,passive,142.250.64.142,404,Error 404 (Not Found)!!1,,,,No
+lookerstudio.us-west4.cloud.google.com,passive,142.250.217.238,200,Looker Studio Overview,,,,No
+lookerstudio.us-west8.cloud.google.com,passive,142.250.64.206,404,Error 404 (Not Found)!!1,,,,No
+lookerstudio.us.cloud.google.com,passive,192.178.50.78,404,Error 404 (Not Found)!!1,,,,No
+loop.corp.google.com,passive,,,,,,,No
+m.google.com,passive,172.217.165.203,200,Google's products and services  - About Google,,,,No
+m.guts.corp.google.com,passive,142.251.15.129,200,m.guts.corp.google.com - Google Single Sign On: Sign into corp,,,,No
+m.gutsdev.corp.google.com,passive,74.125.21.129,200,Sign in - Google Accounts,,apache,,No
+mail.connect.usc.edu.tt,passive,,,,,,,No
+mail.de.usc.edu.tt,passive,137.184.111.46,404,404 Not Found,,"apache,nginx","21, 22, 80, 110, 143, 443, 993, 995, 8443",No
+mail.elearn.usc.edu.tt,passive,"104.244.122.231, 104.244.122.231",200,USC,,apache,"21, 53, 80, 110, 143, 443, 993, 995, 3306",No
+mail.espace.usc.edu.tt,passive,"104.244.122.231, 104.244.122.231",200,USC eSpace,,apache,"21, 80, 110, 143, 443, 993, 995, 3306",No
+mail.flexpack.google.com,passive,,,,,,,No
+mail.freezone.google.com,passive,,,,,,,No
+mail.google.com,passive,192.178.50.37,200,Gmail,,apache,,No
+mail.online.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+me-west1-sourcemanagerredirector-pa.clients6.google.com,passive,142.250.217.234,404,Error 404 (Not Found)!!1,,,,No
+meeting.ext.google.com,passive,,,,,,,No
+meetings.clients6.google.com,passive,172.217.165.202,404,Error 404 (Not Found)!!1,,,,No
+meetlivestreamviewer-pa.clients6.google.com,passive,142.250.64.170,404,Error 404 (Not Found)!!1,,,,No
+megadash-pa.clients6.google.com,passive,142.250.217.234,404,,,,,No
+misc-sni.google.com,passive,,,,,,,No
+misc.google.com,passive,,,,,,,No
+mobilecrashreporting.clients6.google.com,passive,142.250.217.234,404,Error 404 (Not Found)!!1,,,,No
+mobilesdk-pa.clients6.google.com,passive,142.250.217.202,404,,,,,No
+moltron-pa.clients6.google.com,passive,172.217.2.202,404,Error 404 (Not Found)!!1,,,,No
+monitoring.clients6.google.com,passive,142.250.64.234,404,Error 404 (Not Found)!!1,,,,No
+mtalk.google.com,passive,74.125.196.188,,,,,,No
+mtls.clients6.google.com,passive,192.178.50.42,404,Error 404 (Not Found)!!1,,,,No
+mtv-da-1.ad.corp.google.com,passive,,,,,,,No
+mtv-da.corp.google.com,passive,,,,,,,No
+mtv-da.ext.google.com,passive,216.239.45.170,,,,,,No
+museletter.area120.google.com,passive,142.250.217.174,200,Area 120 by Google,,,,No
+mx.google.com,passive,,,,,,,No
+mygeist.corp.google.com,passive,,,,,,,No
+mygeist2010.corp.google.com,passive,,,,,,,No
+news.freezone.google.com,passive,,,,,,,No
+notebook-pa.clients6.google.com,passive,142.250.217.202,404,Error 404 (Not Found)!!1,,,,No
+notebooks.clients6.google.com,passive,192.178.50.74,404,Error 404 (Not Found)!!1,,,,No
+notes-pa.clients6.google.com,passive,192.178.50.42,404,Error 404 (Not Found)!!1,,,,No
+notifications-pa.clients6.google.com,passive,142.250.64.138,404,Error 404 (Not Found)!!1,,,,No
+nova.client-channel.google.com,passive,108.177.11.189,404,Error 404 (Not Found)!!1,,,,No
+offices.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+ogads-pa.clients6.google.com,passive,142.250.217.170,404,Error 404 (Not Found)!!1,,,,No
+oldsite.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+onex.wifi.google.com,passive,,,,,,,No
+online.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",200,Domain Default page,,nginx,"21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+online.usc.edu.tt.espace.usc.edu.tt,passive,"104.244.122.231, 104.244.122.231",200,Domain Default page,,nginx,"21, 53, 80, 110, 143, 443, 993, 995, 3306",No
+opac.usc.edu.tt,passive,,,,,,,No
+orkut-fixprod.corp.google.com,passive,,,,,,,No
+orkut-impersonation.corp.google.com,passive,,,,,,,No
+orkut-ocdemo.corp.google.com,passive,,,,,,,No
+orkut-qa.corp.google.com,passive,,,,,,,No
+orkut-staging.corp.google.com,passive,,,,,,,No
+orkut-uberproxy.corp.google.com,passive,,,,,,,No
+orkut-vctask0.corp.google.com,passive,,,,,,,No
+orkut-vcvrfy.corp.google.com,passive,,,,,,,No
+orkut-yhtask0.corp.google.com,passive,,,,,,,No
+orkut-yhvrfy.corp.google.com,passive,,,,,,,No
+orkut-yqtask0.corp.google.com,passive,,,,,,,No
+orkut-yqvrfy.corp.google.com,passive,,,,,,,No
+oslogin.clients6.google.com,passive,142.251.35.234,404,Error 404 (Not Found)!!1,,,,No
+oz-gmail.corp.google.com,passive,,,,,,,No
+oz-s2.corp.google.com,passive,,,,,,,No
+oz-www.corp.google.com,passive,,,,,,,No
+partners.cloud.google.com,passive,142.250.217.206,200,Partner Home | Google Cloud,,apache,,No
+partnersupport.cloud.google.com,passive,142.250.217.174,200,Google Cloud Support Portal,,apache,,No
+payments.developers.google.com,passive,172.217.2.206,200,Sign in - Google Accounts,,apache,,No
+people-pa.clients6.google.com,passive,142.250.64.202,404,Error 404 (Not Found)!!1,,,,No
+peoplestack-pa.clients6.google.com,passive,192.178.50.74,404,Error 404 (Not Found)!!1,,,,No
+peoplestackwebexperiments-pa.clients6.google.com,passive,172.217.165.202,404,Error 404 (Not Found)!!1,,,,No
+photos.google.com,passive,142.250.217.206,200,"Google Photos: Edit, Organize, Search, and Backup Your Photos",,,,No
+playbooks-pa.clients6.google.com,passive,142.250.64.170,404,Error 404 (Not Found)!!1,,,,No
+playconsoleapps-pa.clients6.google.com,passive,192.178.50.74,404,Error 404 (Not Found)!!1,,,,No
+playconsoledevices-pa.clients6.google.com,passive,142.251.34.138,404,Error 404 (Not Found)!!1,,,,No
+playconsolehealth-pa.clients6.google.com,passive,142.250.217.202,404,Error 404 (Not Found)!!1,,,,No
+playconsolemonetization-pa.clients6.google.com,passive,142.250.217.234,404,Error 404 (Not Found)!!1,,,,No
+playconsoleplatform-pa.clients6.google.com,passive,142.250.217.170,404,Error 404 (Not Found)!!1,,,,No
+playconsoleratings-pa.clients6.google.com,passive,142.250.217.234,404,Error 404 (Not Found)!!1,,,,No
+playconsolestatsfrontend-pa.clients6.google.com,passive,172.217.15.202,404,Error 404 (Not Found)!!1,,,,No
+playmoviesdfe-pa.clients6.google.com,passive,142.250.217.234,404,Error 404 (Not Found)!!1,,,,No
+plus.corp.google.com,passive,,,,,,,No
+plus.flexpack.google.com,passive,,,,,,,No
+plus.freezone.google.com,passive,,,,,,,No
+plus.google.com,passive,192.178.50.46,200,Google Workspace Updates: New community features for Google Chat and an update on Currents,,,,No
+plusone.corp.google.com,passive,,,,,,,No
+postini.corp.google.com,passive,,,,,,,No
+practicesets.classroom.google.com,passive,192.178.50.46,200,Sign in - Google Accounts,,apache,,No
+preprod-dynamite-gamma-us-signaler-pa.clients6.google.com,passive,142.250.217.170,404,Error 404 (Not Found)!!1,,,,No
+preprod-espresso-pa.clients6.google.com,passive,192.178.50.74,404,Error 404 (Not Found)!!1,,,,No
+prod-dynamite-prod-01-us-signaler-pa.clients6.google.com,passive,172.217.15.202,404,Error 404 (Not Found)!!1,,,,No
+prod-dynamite-prod-04-us-signaler-pa.clients6.google.com,passive,142.250.64.202,404,Error 404 (Not Found)!!1,,,,No
+prod-dynamite-prod-05-us-signaler-pa.clients6.google.com,passive,142.250.64.170,404,Error 404 (Not Found)!!1,,,,No
+prod-dynamite-prod-06-us-signaler-pa.clients6.google.com,passive,192.178.50.74,404,Error 404 (Not Found)!!1,,,,No
+prod-dynamite-prod-08-us-signaler-pa.clients6.google.com,passive,142.250.217.170,404,Error 404 (Not Found)!!1,,,,No
+prod-dynamite-prod-09-us-signaler-pa.clients6.google.com,passive,192.178.50.42,404,Error 404 (Not Found)!!1,,,,No
+profiles.corp.google.com,passive,,,,,,,No
+programmaticchallenge-pa.clients6.google.com,passive,172.217.15.202,404,Error 404 (Not Found)!!1,,,,No
+programmes.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443, 21, 22, 80, 110, 143, 443, 993, 995, 8443",No
+prom-qa.corp.google.com,passive,,,,,,,No
+prom-qa.sandbox.google.com,passive,,,,,,,No
+prom-test.corp.google.com,passive,,,,,,,No
+prom-test.sandbox.google.com,passive,172.217.203.81,404,Error 404 (Not Found)!!1,,,,No
+prom.corp.google.com,passive,173.194.219.129,200,prom.corp.google.com - Google Single Sign On: Sign into corp,,,,No
+pronto-pa.clients6.google.com,passive,142.250.64.202,404,Error 404 (Not Found)!!1,,,,No
+proxyconfig.corp.google.com,passive,64.233.185.129,200,proxyconfig.corp.google.com - Google Single Sign On: Sign into corp,,,,No
+pubsub.clients6.google.com,passive,142.250.217.170,404,Error 404 (Not Found)!!1,,,,No
+push.clients6.google.com,passive,172.217.165.202,404,Error 404 (Not Found)!!1,,,,No
+qa.adz.google.com,passive,,,,,,,No
+qaya.area120.google.com,passive,142.251.35.238,200,Area 120 by Google,,,,No
+r1.sn-npoe7ne6.c.docs.google.com,passive,74.125.101.230,404,Error 404 (Not Found)!!1,,,,No
+r1.sn-npoe7ne7.c.docs.google.com,passive,173.194.59.6,404,Error 404 (Not Found)!!1,,,,No
+r1.sn-vgqsrne6.c.android.clients.google.com,passive,209.85.164.230,404,Error 404 (Not Found)!!1,,,,No
+r4.sn-npoe7ne6.c.docs.google.com,passive,74.125.101.233,404,Error 404 (Not Found)!!1,,,,No
+realtimesupport.client-channel.google.com,passive,74.125.139.189,404,Error 404 (Not Found)!!1,,,,No
+realtimesupport.clients6.google.com,passive,172.217.165.202,404,,,,,No
+recommender.clients6.google.com,passive,172.217.2.202,404,Error 404 (Not Found)!!1,,,,No
+records.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443, 21, 22, 80, 110, 143, 443, 993, 995, 8443",No
+redirector.c.android.clients.google.com,passive,172.217.165.206,404,Error 404 (Not Found)!!1,,,,No
+region1.analytics.google.com,passive,"216.239.32.36, 216.239.34.36",404,Error 404 (Not Found)!!1,,,,No
+reminders-pa.clients6.google.com,passive,142.250.64.170,404,Error 404 (Not Found)!!1,,,,No
+reseed.corp.google.com,passive,,,,,,,No
+resultstore.clients6.google.com,passive,142.250.217.202,404,Error 404 (Not Found)!!1,,,,No
+sandbox.google.com,passive,108.177.12.81,404,Error 404 (Not Found)!!1,,,,No
+save-pa.clients6.google.com,passive,142.250.64.170,404,Error 404 (Not Found)!!1,,,,No
+scone-pa.clients6.google.com,passive,142.250.64.202,404,Error 404 (Not Found)!!1,,,,No
+script.sandbox.google.com,passive,173.194.217.81,200,Google Drive: Sign-in,,apache,,No
+search.corp.google.com,passive,74.125.21.129,200,Sign in - Google Accounts,,apache,,No
+search.flexpack.google.com,passive,,,,,,,No
+search.freezone.google.com,passive,,,,,,,No
+secureconnect-pa.clients6.google.com,passive,192.178.50.74,404,Error 404 (Not Found)!!1,,,,No
+secureconnect-pa.mtls.clients6.google.com,passive,142.250.64.234,404,Error 404 (Not Found)!!1,,,,No
+servicemanagement.clients6.google.com,passive,172.217.165.202,404,Error 404 (Not Found)!!1,,,,No
+services.google.com,passive,192.178.50.78,200,Google,,,,No
+serviceusage.clients6.google.com,passive,192.178.50.74,404,Error 404 (Not Found)!!1,,,,No
+sheets.clients6.google.com,passive,172.217.165.202,404,Error 404 (Not Found)!!1,,,,No
+shell.cloud.google.com,passive,172.217.165.206,200,Sign in - Google Accounts,,apache,,No
+shop.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46, 137.184.111.46",200,Home - Shop @ the University of the Southern Caribbean,,"PHP,nginx,wordpress","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+shoploop.area120.google.com,passive,142.250.64.206,,,,,,No
+shoppinglist-pa.clients6.google.com,passive,142.251.35.234,404,Error 404 (Not Found)!!1,,,,No
+signaler-pa.clients6.google.com,passive,142.250.217.202,404,Error 404 (Not Found)!!1,,,,No
+sites-googlegroups-nightly.corp.google.com,passive,,,,,,,No
+sites-googlegroups-qa01.corp.google.com,passive,,,,,,,No
+sites-googlegroups-qa02.corp.google.com,passive,,,,,,,No
+sites-googlegroups-qa03.corp.google.com,passive,,,,,,,No
+sites-googlegroups-qa04.corp.google.com,passive,,,,,,,No
+sites-googlegroups-qa05.corp.google.com,passive,,,,,,,No
+sites-googlegroups-qa06.corp.google.com,passive,,,,,,,No
+sites-googlegroups-qa07.corp.google.com,passive,,,,,,,No
+sites-googlegroups-qa08.corp.google.com,passive,,,,,,,No
+sites-googlegroups-tctest.corp.google.com,passive,,,,,,,No
+sites.google.com,passive,192.178.50.78,200,Google Drive: Sign-in,,apache,,No
+sites.sandbox.google.com,passive,173.194.212.81,200,Google Drive: Sign-in,,apache,,No
+smtp124.signaler-pa.clients6.google.com,passive,142.250.217.202,404,Error 404 (Not Found)!!1,,,,No
+smtp142.addons-pa.clients6.google.com,passive,142.250.217.202,404,Error 404 (Not Found)!!1,,,,No
+smtp213.people-pa.clients6.google.com,passive,142.250.217.234,404,Error 404 (Not Found)!!1,,,,No
+soaproxyprod01.ext.google.com,passive,72.14.225.70,,,,,,No
+soaproxytest01.ext.google.com,passive,216.239.44.94,,,,,,No
+solutions.cloud.google.com,passive,142.250.217.206,200,,,,,No
+source.developers.google.com,passive,142.251.107.82,200,,,apache,,No
+sourcerers.client-channel.google.com,passive,173.194.215.189,404,Error 404 (Not Found)!!1,,,,No
+southcentre.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443, 21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+spanner.clients6.google.com,passive,172.217.2.202,404,Error 404 (Not Found)!!1,,,,No
+spdy-proxy-debug.ext.google.com,passive,,,,,,,No
+spdy-proxy.ext.google.com,passive,,,,,,,No
+stackdriver.clients6.google.com,passive,172.217.2.202,404,Error 404 (Not Found)!!1,,,,No
+staff.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443, 21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+staging-a.blogger.corp.google.com,passive,,,,,,,No
+staging-b.blogger.corp.google.com,passive,,,,,,,No
+staging-c.blogger.corp.google.com,passive,,,,,,,No
+staging-d.blogger.corp.google.com,passive,,,,,,,No
+staging-daily.blogger.corp.google.com,passive,,,,,,,No
+staging-daily.blogspot.corp.google.com,passive,,,,,,,No
+staging-gaia.blogger.corp.google.com,passive,,,,,,,No
+staging-git.corp.google.com,passive,64.233.177.129,200,staging-git.corp.google.com - Google Single Sign On: Sign into corp,,,,No
+staging-googlesource.corp.google.com,passive,,,,,,,No
+staging-prod.blogger.corp.google.com,passive,,,,,,,No
+staging-weekly.blogger.corp.google.com,passive,,,,,,,No
+staging-weekly.blogspot.corp.google.com,passive,,,,,,,No
+staging.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443, 21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+stlucia.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 80, 110, 143, 443, 993, 995, 8443, 21, 22, 80, 110, 143, 443, 993, 995, 8443",No
+storage.clients6.google.com,passive,142.250.217.170,404,Error 404 (Not Found)!!1,,,,No
+students.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+subscriptionsfirstparty-pa.clients6.google.com,passive,142.251.34.138,404,Error 404 (Not Found)!!1,,,,No
+support.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+supportcases-pa-googleapis.clients6.google.com,passive,142.250.217.170,404,Error 404 (Not Found)!!1,,,,No
+tables.area120.google.com,passive,142.251.34.142,200,Tables | A Business Workflow Management Automation Tool,,,,No
+takeout-pa-qw.clients6.google.com,passive,142.250.64.170,404,Error 404 (Not Found)!!1,,,,No
+takeout-pa.clients6.google.com,passive,192.178.50.42,404,Error 404 (Not Found)!!1,,,,No
+talk.google.com,passive,,,,,,,No
+talkgadget.google.com,passive,172.217.165.206,404,Error 404 (Not Found)!!1,,,,No
+taskassist-pa.clients6.google.com,passive,142.250.217.202,200,Sign in - Google Accounts,,apache,,No
+tasks-pa.clients6.google.com,passive,142.250.217.202,404,Error 404 (Not Found)!!1,,,,No
+tasks.client-channel.google.com,passive,192.178.219.189,404,Error 404 (Not Found)!!1,,,,No
+telephonysubscriber-pa.clients6.google.com,passive,142.250.217.170,404,Error 404 (Not Found)!!1,,,,No
+tensorboard-autopush.cloud.google.com,passive,142.250.64.174,404,Error 404 (Not Found)!!1,,,,No
+tensorboard-dev.cloud.google.com,passive,142.251.34.142,404,Error 404 (Not Found)!!1,,,,No
+tensorboard-staging.cloud.google.com,passive,142.250.217.206,404,Error 404 (Not Found)!!1,,,,No
+test.postini.corp.google.com,passive,,,,,,,No
+testdev.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 80, 110, 143, 443, 993, 995, 8443",No
+testing.clients6.google.com,passive,142.250.217.202,404,Error 404 (Not Found)!!1,,,,No
+theology.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+tobago.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+toolresults.clients6.google.com,passive,192.178.50.42,404,Error 404 (Not Found)!!1,,,,No
+tos-pa.clients6.google.com,passive,142.251.34.138,404,Error 404 (Not Found)!!1,,,,No
+tracedepot-pa.clients6.google.com,passive,142.250.217.202,404,Error 404 (Not Found)!!1,,,,No
+translationhub.cloud.google.com,passive,142.250.217.206,200,Translation Hub,,,,No
+tutor-pa.clients6.google.com,passive,172.217.165.202,404,Error 404 (Not Found)!!1,,,,No
+twd-da.ext.google.com,passive,72.14.229.178,,,,,,No
+twdsalesgsa.twd.corp.google.com,passive,,,,,,,No
+uberproxy-nocert.corp.google.com,passive,,,,,,,No
+uberproxy-san.corp.google.com,passive,,,,,,,No
+uberproxy.corp.google.com,passive,74.125.21.129,200,uberproxy.corp.google.com - Google Single Sign On: Sign into corp,,,,No
+upload.google.com,passive,142.250.217.207,404,Error 404 (Not Found)!!1,,,,No
+upload.video.google.com,passive,142.250.217.175,404,Error 404 (Not Found)!!1,,,,No
+urchin.corp.google.com,passive,,,,,,,No
+url.google.com,passive,,,,,,,No
+us-central1-aiplatform.clients6.google.com,passive,142.250.217.234,404,Error 404 (Not Found)!!1,,,,No
+us-central1-dialogflow.clients6.google.com,passive,142.251.35.234,404,Error 404 (Not Found)!!1,,,,No
+us-central1-sourcemanagerredirector-pa.clients6.google.com,passive,142.250.217.202,404,Error 404 (Not Found)!!1,,,,No
+us-dialogflow.clients6.google.com,passive,142.250.217.202,404,Error 404 (Not Found)!!1,,,,No
+us-discoveryengine.clients6.google.com,passive,142.250.217.202,404,Error 404 (Not Found)!!1,,,,No
+us-west1-dialogflow.clients6.google.com,passive,142.250.64.202,404,Error 404 (Not Found)!!1,,,,No
+usa-dialogflow.clients6.google.com,passive,142.250.64.170,404,Error 404 (Not Found)!!1,,,,No
+usc.edu.tt,passive,"137.184.111.46, 137.184.111.46, 137.184.111.46",200,Home - Regular - University of the Southern Caribbean,,"PHP,nginx,wordpress","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+usc100.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46, 137.184.111.46",200,USC Centennial &#8211; Journey to 100 Years,,"PHP,nginx,wordpress","21, 22, 80, 110, 143, 443, 993, 995, 8443",No
+uscdev2025.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+uscstrong.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+vertexaiconversation.cloud.google.com,passive,172.217.165.206,200,Sign in - Google Accounts,,apache,,No
+vertexaisearch.cloud.google.com,passive,142.251.34.142,404,Error 404 (Not Found)!!1,,,,No
+voice.clients6.google.com,passive,142.250.217.234,404,Error 404 (Not Found)!!1,,,,No
+vp.video.l.google.com,passive,,,,,,,No
+waa-pa.clients6.google.com,passive,142.250.217.170,404,Error 404 (Not Found)!!1,,,,No
+webdisk.connect.usc.edu.tt,passive,,,,,,,No
+webdisk.de.usc.edu.tt,passive,137.184.111.46,404,404 Not Found,,"apache,nginx",53,No
+webdisk.elearn.usc.edu.tt,passive,"104.244.122.231, 104.244.122.231",401,,,,"21, 80, 110, 143, 443, 993, 995, 3306",No
+webdisk.espace.usc.edu.tt,passive,"104.244.122.231, 104.244.122.231",401,,,,"21, 80, 110, 143, 443, 993, 995, 3306",No
+webdisk.online.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+webdrive-test-canary.corp.google.com,passive,108.177.122.129,200,Google Drive: Sign-in,,apache,,No
+webdrive-test-prod.corp.google.com,passive,74.125.138.129,200,Google Drive: Sign-in,,apache,,No
+webmail.connect.usc.edu.tt,passive,,,,,,,No
+webmail.de.usc.edu.tt,passive,137.184.111.46,404,404 Not Found,,"apache,nginx","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+webmail.elearn.usc.edu.tt,passive,"104.244.122.231, 104.244.122.231",200,Webmail Login,,apache,"21, 80, 110, 143, 443, 993, 995, 3306",No
+webmail.espace.usc.edu.tt,passive,"104.244.122.231, 104.244.122.231",200,Webmail Login,,apache,"21, 53, 80, 110, 143, 443, 993, 995, 3306",No
+webmail.online.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+webmail.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",200,Roundcube Webmail :: Welcome to Roundcube Webmail,,"PHP,nginx","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+whm.connect.usc.edu.tt,passive,,,,,,,No
+whm.espace.usc.edu.tt,passive,"104.244.122.231, 104.244.122.231",200,WHM Login,,apache,"21, 53, 80, 110, 143, 443, 993, 995, 3306",No
+whm.online.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+wifi.google.com,passive,172.217.204.123,404,Error 404 (Not Found)!!1,,,,No
+workspaceui-pa.clients6.google.com,passive,142.251.34.138,404,Error 404 (Not Found)!!1,,,,No
+workspacevideo-pa.clients6.google.com,passive,142.250.217.234,404,Error 404 (Not Found)!!1,,,,No
+workstations.cloud.google.com,passive,142.250.217.206,200,,,,,No
+www.clients6.google.com,passive,142.250.217.234,404,Error 404 (Not Found)!!1,,,,No
+www.connect.usc.edu.tt,passive,,,,,,,No
+www.connect.usc.edu.tt.espace.usc.edu.tt,passive,"104.244.122.231, 104.244.122.231",,,,,"21, 53, 80, 110, 143, 443, 993, 995, 3306",No
+www.de.usc.edu.tt,passive,137.184.111.46,200,Department of Online Education &#8211; Advancing USC distance education,,"wordpress,PHP,nginx","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+www.elearn.usc.edu.tt,passive,"104.244.122.231, 104.244.122.231",200,USC,,apache,"21, 53, 80, 110, 143, 443, 993, 995, 3306",No
+www.espace.usc.edu.tt,passive,"104.244.122.231, 104.244.122.231",200,USC eSpace,,apache,"21, 53, 80, 110, 143, 443, 993, 995, 3306",No
+www.flexpack.google.com,passive,,,,,,,No
+www.freezone.google.com,passive,,,,,,,No
+www.google.com,passive,192.178.50.68,200,Google,,,,No
+www.hangouts.clients6.google.com,passive,192.178.50.42,404,Error 404 (Not Found)!!1,,,,No
+www.meetings.clients6.google.com,passive,142.250.217.202,404,Error 404 (Not Found)!!1,,,,No
+www.online.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46",200,Domain Default page,,nginx,"21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+www.online.usc.edu.tt.espace.usc.edu.tt,passive,"104.244.122.231, 104.244.122.231",200,Domain Default page,,nginx,"21, 53, 80, 110, 143, 443, 993, 995, 3306",No
+www.opac.usc.edu.tt,passive,,,,,,,No
+www.staging.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443, 21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+www.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46, 137.184.111.46",200,Home - Regular - University of the Southern Caribbean,,"PHP,nginx,wordpress","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+wwwe.usc.edu.tt,passive,"137.184.111.46, 137.184.111.46, 137.184.111.46",404,404 Not Found,,"nginx,apache","21, 22, 53, 80, 110, 143, 443, 993, 995, 8443, 21, 22, 53, 80, 110, 143, 443, 993, 995, 8443",No
+yeti.client-channel.google.com,passive,173.194.212.189,404,Error 404 (Not Found)!!1,,,,No
