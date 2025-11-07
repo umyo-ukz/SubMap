@@ -2,7 +2,7 @@
 
 **SubMap** is an advanced subdomain enumeration and asset discovery tool designed for security professionals and penetration testers. It combines passive and active reconnaissance techniques to discover subdomains, probe services, detect vulnerabilities, and generate comprehensive reports.
 
-## 🚀 Features
+## Features
 
 ### Passive Enumeration
 - **Multiple Data Sources**: Integrates with crt.sh, HackerTarget, and VirusTotal
@@ -27,7 +27,7 @@
 - **Multiple Export Formats**: JSON (detailed), CSV (spreadsheet), HTML (dashboard)
 - **Organized Output**: Domain-specific report directories with timestamps
 
-## 📋 Requirements
+## Requirements
 
 - Python 3.7+
 - Internet connection (for passive enumeration)
@@ -44,7 +44,7 @@ dnspython
 tqdm
 ```
 
-## 🔧 Installation
+## Installation
 
 1. **Clone the repository**:
 ```bash
@@ -62,7 +62,7 @@ pip install -r requirements.txt
 python -m submap.cli --help
 ```
 
-## 🎯 Usage
+## Usage
 
 ### Basic Passive Scan
 
@@ -96,7 +96,7 @@ python -m submap.cli --domain example.com --authorized --active --modules brutef
 python -m submap.cli --domain example.com --authorized --vt-api-key YOUR_VT_API_KEY
 ```
 
-## 📖 Command-Line Options
+## Command-Line Options
 
 ### Required Arguments
 - `--domain`: Target domain (e.g., example.com)
@@ -136,7 +136,7 @@ python -m submap.cli --domain example.com --authorized --vt-api-key YOUR_VT_API_
    - Bug bounty hunters within program scope
    - System administrators testing their own infrastructure
 
-## 📊 Output & Reports
+## Output & Reports
 
 All reports are saved in the `reports/` directory, organized by domain and timestamp:
 
@@ -168,7 +168,7 @@ reports/
 - Service distribution
 - Vulnerability highlights
 
-## 🎛️ Scan Phases
+## Scan Phases
 
 SubMap executes scans in organized phases:
 
@@ -189,7 +189,7 @@ SubMap executes scans in organized phases:
    - Exports data in multiple formats
    - Creates organized report directories
 
-## 💡 Examples
+## Examples
 
 ### Example 1: Quick Passive Scan
 ```bash
@@ -220,7 +220,7 @@ python -m submap.cli \
   --wordlist custom-wordlist.txt
 ```
 
-## 🗄️ Database Schema
+## Database Schema
 
 SubMap uses SQLite to store all scan data persistently. The database includes tables for:
 
@@ -230,7 +230,7 @@ SubMap uses SQLite to store all scan data persistently. The database includes ta
 - Port scan findings
 - Takeover vulnerability checks
 
-## 🛠️ Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -249,7 +249,7 @@ SubMap uses SQLite to store all scan data persistently. The database includes ta
 - Solution: Check internet connection
 - Solution: Some domains may have limited public exposure
 
-## ⚖️ Legal Disclaimer
+## Legal Disclaimer
 
 This tool is provided for educational and authorized security testing purposes only. Users are solely responsible for ensuring they have proper authorization before scanning any target. Unauthorized access to computer systems is illegal under various laws including the Computer Fraud and Abuse Act (CFAA) in the United States and similar laws in other jurisdictions.
 
@@ -261,7 +261,7 @@ The authors and contributors of SubMap:
 **USE AT YOUR OWN RISK AND ONLY WITH PROPER AUTHORIZATION**
 
 
-## 👤 Author
+## Author
 
 Developed by umyo-ukz
 
