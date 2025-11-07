@@ -111,6 +111,3 @@ async def check_takeover(session: RetryClient, subdomain: str, dns_results: Dict
                 except Exception:
                     pass
     return (False, "", "")
-
-
-# Screenshots removed - function removed to simplify package
